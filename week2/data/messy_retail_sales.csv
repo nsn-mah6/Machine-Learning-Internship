@@ -1,0 +1,27 @@
+Order_ID,Order_Date,City,Category,Product,Quantity,Unit_Price,Salesperson
+S001,2026-01-03, Kathmandu ,Electronics,Laptop,1,85000,Nishan
+S002,2026-01-04,Pokhara,electronics,Mouse,2,1500,Aarav
+S003,2026-01-05,Chitwan,Furniture,Chair,4,2500,Sita
+S004,2026-01-06,Kathmandu,Clothing,T-Shirt,3,800,Riya
+S005,2026-01-07,Pokhara,Electronics,Keyboard,1,3500,Aarav
+S006,2026-01-08,Chitwan,Furniture,Table,1,6500,Bikash
+S007,2026-01-09,Kathmandu,Clothing,Jeans,2,2200,Nishan
+S008,2026-01-10,Biratnagar,electronics,Headphones,1,4200,Mina
+S009,2026-01-11,Chitwan,Furniture,Chair,2,2500,Sita
+S010,2026-01-12,Pokhara,Clothing,Jacket,1,4500,Aarav
+S011,2026-01-13, Kathmandu,Electronics,Monitor,1,18000,Nishan
+S012,2026-01-14,Biratnagar,Clothing,T-Shirt,5,800,Mina
+S013,2026-01-15,Chitwan,Furniture,Desk,1,9500,Bikash
+S014,2026-01-16,Pokhara,Electronics,Mouse,3,1500,Aarav
+S015,2026-01-17,Kathmandu,Clothing,Jeans,,2200,Riya
+S016,2026-01-18,Chitwan,Furniture,Table,2,,Sita
+S017,2026-01-19,Biratnagar,Electronics,Keyboard,two,3500,Mina
+S018,not-a-date,Pokhara,Clothing,Jacket,1,4500,Aarav
+S019,2026-01-21,Chitwan, furniture ,Desk,1,9500,Bikash
+S020,2026-01-22,Kathmandu,Clothing,T-Shirt,2,800,Nishan
+S021,2026-01-23,Pokhara,Electronics,Headphones,1,"4,200",Aarav
+S022,2026-01-24,Biratnagar,Furniture,Chair,-1,2500,Mina
+S023,2026-01-25,Chitwan,Clothing,Jeans,2,2200,Sita
+S024,2026-01-26,Kathmandu,Electronics,Laptop,1,85000,Nishan
+S025,2026-01-27,Pokhara,Furniture,Table,1,6500,Aarav
+S002,2026-01-04,Pokhara,electronics,Mouse,2,1500,Aarav
