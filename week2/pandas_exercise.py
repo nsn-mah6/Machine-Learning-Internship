@@ -38,3 +38,11 @@ df = df.drop_duplicates()
 
 print("\n-----Duplicate Rows After Removing:-----")
 print(df.duplicated().sum())
+
+
+# converting data types of columns
+df["Order_Date"] = pd.to_datetime(df["Order_Date"], errors="coerce")
+df["Quantity"] = pd.to_numeric(df["Quantity"], errors="coerce") 
+df["Unit_Price"] = pd.to_numeric(df["Unit_Price"], errors="coerce") 
+print(df.dtypes)
+print(df[["Order_ID", "Order_Date", "Quantity", "Unit_Price"]].head(10))
