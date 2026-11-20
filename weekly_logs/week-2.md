@@ -1,5 +1,5 @@
 # Machine Learning Internship – Weekly Learning Log
-##### Intern Name: Nishan Mahato
+##### Name: Nishan Mahato
 ##### Program: Machine Learning Internship
 
 
